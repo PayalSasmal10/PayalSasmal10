@@ -1,4 +1,6 @@
-### Hi there I am Payal Sasmal👋
+# [Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Payal Sasmal]
+
+##I am a Software Engineer, Cloud Engineer and Technical Blogger
 
 <!--
 **PayalSasmal10/PayalSasmal10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
