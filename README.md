@@ -1,4 +1,5 @@
 #  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Payal Sasmal
+<i class="fab fa-twitter-square"></i>
 
 ## I'm a Web Developer, Cloud Engineer and Technical Blogger.
 
@@ -17,3 +18,22 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [100DaysOfCodingChallenge](https://github.com/PayalSasmal10/100daysCoding)
 
+---
+
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Basics Linux & Unix commands we should know](https://dev.to/payalsasmal/basic-linux-unix-commands-we-should-know-12f5)
+- [Let's learn more about linux unix commands](https://dev.to/payalsasmal/let-s-learn-more-about-linux-unix-commands-5aai)
+- [What all we can do through Hashicrop vault CLI](https://dev.to/payalsasmal/what-all-we-can-do-through-vault-ui-4p26)
+- [What is Kubernetes Operator](https://dev.to/payalsasmal/kubernetes-operator-171o)
+
+<!-- BLOG-POST-LIST:END -->
+
+### Let's Connect
+<!-- Connection:start -->
+- [Twitter](https://twitter.com/payalsasmal)
+- [Linkedin](https://www.linkedin.com/in/payal-sasmal-64204311a/)
+- [Dev.to](https://dev.to/payalsasmal)
+
+<!-- connection:End -->
