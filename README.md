@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - [Let's learn more about linux unix commands](https://dev.to/payalsasmal/let-s-learn-more-about-linux-unix-commands-5aai)
 - [What all we can do through Hashicrop vault CLI](https://dev.to/payalsasmal/what-all-we-can-do-through-vault-ui-4p26)
 - [What is Kubernetes Operator](https://dev.to/payalsasmal/kubernetes-operator-171o)
+- [Let's learn about few networking side commands in linux/unix](https://dev.to/payalsasmal/let-s-learn-about-few-networking-side-command-in-linux-unix-3b7d)
 
 <!-- BLOG-POST-LIST:END -->
 
