@@ -38,9 +38,11 @@ Here are some ideas to get you started:
 
 ### Let's Connect
 <!-- Connection:start -->
-- <a href="https://twitter.com/payalsasmal" target="blank"><img align="center" src="https://img.icons8.com/officexs/16/000000/twitter.png" alt="payalsasmal" height="30" width="40" /></a>
-- [Twitter](https://twitter.com/payalsasmal)
-- [Linkedin](https://www.linkedin.com/in/payal-sasmal-64204311a/)
+<a href="https://twitter.com/payalsasmal" target="blank"><img align="center" src="https://img.icons8.com/officexs/80/000000/twitter.png" alt="payalsasmal" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/payal-sasmal-64204311a/" target="blank"><img align="center" src="https://img.icons8.com/color/40/000000/linkedin.png" alt="payalsasmal" height="30" width="40" /></a>
+
+<!--
 - [Dev.to](https://dev.to/payalsasmal)
+- -->
 
 <!-- connection:End -->
