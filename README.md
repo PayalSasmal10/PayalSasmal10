@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 --->
 
 - 🔭 I’m currently working on [ToDo-FullStack-App](https://github.com/PayalSasmal10/ToDo-FullStack)
-- 🔭 I worked on [100DaysOfCodingChallenge](https://github.com/PayalSasmal10/100daysCoding)
+- 🔭 I’m currently creating content on DSA for beginners.
+- :bulb: I worked on [100DaysOfCodingChallenge](https://github.com/PayalSasmal10/100daysCoding)
 - :bulb: I worked on [Converter Site](https://github.com/PayalSasmal10/pdf2docxConverter-PayalSasmal) which is hosted on heroku [Converter Site](https://pdfconverter-by-payal.herokuapp.com/)
 
 ---
