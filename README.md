@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - [What all we can do through Hashicrop vault CLI](https://dev.to/payalsasmal/what-all-we-can-do-through-vault-ui-4p26)
 - [What is Kubernetes Operator](https://dev.to/payalsasmal/kubernetes-operator-171o)
 - [Let's learn about few networking side commands in linux/unix](https://dev.to/payalsasmal/let-s-learn-about-few-networking-side-command-in-linux-unix-3b7d)
-- [How to deploy containerized python and djnago applocation on heroku](https://dev.to/payalsasmal/how-to-deploy-containerized-python-and-django-application-on-heroku-31he)
+- [How to deploy containerized python and django applocation on heroku](https://dev.to/payalsasmal/how-to-deploy-containerized-python-and-django-application-on-heroku-31he)
 
 <!-- BLOG-POST-LIST:END -->
 
