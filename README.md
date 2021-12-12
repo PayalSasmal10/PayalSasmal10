@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-
-- 🔭 I’m currently working on [ToDo-FullStack-App](https://github.com/PayalSasmal10/ToDo-FullStack)
 - 🔭 I’m currently creating content on DSA for beginners.
+- 🔭 I worked on [ToDo-FullStack-App](https://github.com/PayalSasmal10/ToDo-FullStack) and it's live as [Task Tracker](https://tasktrackerapps.herokuapp.com/)
 - :bulb: I worked on [100DaysOfCodingChallenge](https://github.com/PayalSasmal10/100daysCoding)
 - :bulb: I worked on [Converter Site](https://github.com/PayalSasmal10/pdf2docxConverter-PayalSasmal) which is hosted on heroku [Converter Site](https://pdfconverter-by-payal.herokuapp.com/)
 
