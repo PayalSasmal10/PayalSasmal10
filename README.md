@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 - [What is Kubernetes Operator](https://dev.to/payalsasmal/kubernetes-operator-171o)
 - [Let's learn about few networking side commands in linux/unix](https://dev.to/payalsasmal/let-s-learn-about-few-networking-side-command-in-linux-unix-3b7d)
 - [How to deploy containerized python and django applocation on heroku](https://dev.to/payalsasmal/how-to-deploy-containerized-python-and-django-application-on-heroku-31he)
+- [How can you differentiate between Array and LinkedList](https://payalsasmal.hashnode.dev/how-can-you-differentiate-between-array-and-linkedlist)
+- [How to deploy the Front-end(React) and Backend(Django) with Postgres at Heroku](https://dev.to/payalsasmal/how-to-deploy-the-front-endreact-and-backenddjango-with-postgres-at-heroku-4lo1)
 
 <!-- BLOG-POST-LIST:END -->
 
