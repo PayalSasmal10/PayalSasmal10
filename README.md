@@ -4,7 +4,7 @@
 <i class="fab fa-twitter-square"></i>
 
 
-## I'm a Web Developer, Cloud Engineer and Technical Blogger.
+## I'm a Software Developer and Technical Blogger.
 
 <!--
 **PayalSasmal10/PayalSasmal10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
