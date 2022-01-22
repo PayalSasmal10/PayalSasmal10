@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/PayalSasmal10/PayalSasmal10/blob/main/images/Black Technology LinkedIn Banner (3).png)](https://github.com/PayalSasmal10/PayalSasmal10/blob/main/images/Black Technology LinkedIn Banner (3).png)
+[![MasterHead](https://github.com/PayalSasmal10/PayalSasmal10/blob/main/images/github_banner.png)](https://github.com/PayalSasmal10/PayalSasmal10/blob/main/images/github_banner.png)
 
 #  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Payal Sasmal
 <i class="fab fa-twitter-square"></i>
