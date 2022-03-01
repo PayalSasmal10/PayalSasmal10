@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - [How to deploy containerized python and django applocation on heroku](https://dev.to/payalsasmal/how-to-deploy-containerized-python-and-django-application-on-heroku-31he)
 - [How can you differentiate between Array and LinkedList](https://payalsasmal.hashnode.dev/how-can-you-differentiate-between-array-and-linkedlist)
 - [How to deploy the Front-end(React) and Backend(Django) with Postgres at Heroku](https://dev.to/payalsasmal/how-to-deploy-the-front-endreact-and-backenddjango-with-postgres-at-heroku-4lo1)
+- [Bubble Sort](https://dev.to/payalsasmal/bubble-sort-5bk9)
 
 <!-- BLOG-POST-LIST:END -->
 
