@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 
 ---
 
+<h2 align="left">My GitHub Stats</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=payalsasmal10&show_icons=true&theme=dark">
+</p>
+
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
