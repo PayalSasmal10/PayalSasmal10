@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to deploy the Front-end(React) and Backend(Django) with Postgres at Heroku](https://dev.to/payalsasmal/how-to-deploy-the-front-endreact-and-backenddjango-with-postgres-at-heroku-4lo1).
+- [Bubble Sort](https://dev.to/payalsasmal/bubble-sort-5bk9)
 - [Basics Linux & Unix commands we should know](https://dev.to/payalsasmal/basic-linux-unix-commands-we-should-know-12f5)
 - [Let's learn more about linux unix commands](https://dev.to/payalsasmal/let-s-learn-more-about-linux-unix-commands-5aai)
 - [What all we can do through Hashicrop vault CLI](https://dev.to/payalsasmal/what-all-we-can-do-through-vault-ui-4p26)
@@ -41,8 +43,6 @@ Here are some ideas to get you started:
 - [Let's learn about few networking side commands in linux/unix](https://dev.to/payalsasmal/let-s-learn-about-few-networking-side-command-in-linux-unix-3b7d)
 - [How to deploy containerized python and django applocation on heroku](https://dev.to/payalsasmal/how-to-deploy-containerized-python-and-django-application-on-heroku-31he)
 - [How can you differentiate between Array and LinkedList](https://payalsasmal.hashnode.dev/how-can-you-differentiate-between-array-and-linkedlist)
-- [How to deploy the Front-end(React) and Backend(Django) with Postgres at Heroku](https://dev.to/payalsasmal/how-to-deploy-the-front-endreact-and-backenddjango-with-postgres-at-heroku-4lo1)
-- [Bubble Sort](https://dev.to/payalsasmal/bubble-sort-5bk9)
 
 <!-- BLOG-POST-LIST:END -->
 
