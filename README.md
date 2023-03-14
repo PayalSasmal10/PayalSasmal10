@@ -1,6 +1,7 @@
 
-# 👋 Hello World! I am Payal Sasmal 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PayalSasmal10) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/PayalSasmal10)
+# <h1 align="center"> 👋 Hello World! I am Payal Sasmal </h1>
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/PayalSasmal10) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/PayalSasmal10)
+[![Javascript](https://badges.frapsoft.com/javascript/code/javascript.svg?v=101)](https://github.com/ellerbrock/javascript-badges/)
 <br> <br>
 <h2 align="center">Tech Stack</h2>
   <p align="center">
