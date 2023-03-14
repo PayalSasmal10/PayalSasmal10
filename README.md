@@ -1,4 +1,7 @@
 
+# 👋 Hello World! I am Payal Sasmal 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PayalSasmal10) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/PayalSasmal10)
+<br> <br>
 <h2 align="center">Tech Stack</h2>
   <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
