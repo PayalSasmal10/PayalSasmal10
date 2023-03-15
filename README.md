@@ -31,7 +31,15 @@
 <p align="left">
 <a href="https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0" title="Different types of variable declarations in JavaScript - var, let and const."><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nop9rdfi1e1exqzox6wl.jpeg" alt="Different types of variable declarations in JavaScript - var, let and const." width="250px" align="left" /></a>
 <a href="https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0" title="Different types of variable declarations in JavaScript - var, let and const."><strong>Different types of variable declarations in JavaScript - var, let and const.</strong></a>
-<br/> Time flies. It surely does. It feels like yesterday when I think of the moment I joined KonfHub Tech Conferences. Today is the day exactly a year ago I became a Frontend Dev. The day I joined KonfHub Team, I had zero experience in making applications using React or Next. I still remember my first task where I have to make a Landing Page for JetBrains tools and Lalit Sharma made me write the code using React and Bulma. I absolutely did not know the tech stack....
+<br/> Hi everyone. Here is my first blog in JavaScript. This blog is about the ways that can be used to declare variables in JavaScript. I know, as a beginner, it is difficult to understand the declaration of variable scope.So.. I am here to make it easy. 
+And here you go................
+ </p>  <br/> 
+ 
+ <p align="left">
+<a href="https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0" title="Different types of variable declarations in JavaScript - var, let and const."><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nop9rdfi1e1exqzox6wl.jpeg" alt="Different types of variable declarations in JavaScript - var, let and const." width="250px" align="left" /></a>
+<a href="https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0" title="Different types of variable declarations in JavaScript - var, let and const."><strong>Different types of variable declarations in JavaScript - var, let and const.</strong></a>
+<br/> Hi everyone. Here is my first blog in JavaScript. This blog is about the ways that can be used to declare variables in JavaScript. I know, as a beginner, it is difficult to understand the declaration of variable scope.So.. I am here to make it easy. 
+And here you go................
  </p>  <br/> 
 
 
