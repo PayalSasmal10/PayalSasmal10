@@ -6,7 +6,7 @@
 <!-- <br> <br> -->
 <p align="center">A Passionate Software Developer</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PayalSasmal10&label=Profile%20views&color=0e75b6&style=flat" alt="PayalSasmal10" /> </p>
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Tech Stack 🚀</h2>
   <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -27,7 +27,7 @@
   </p>
 
 
-<h2 align="center">My recent blog post</h2>
+<h2 align="center">My Recent Blog Post ✍️ </h2>
 <p align="left">
 <a href="https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0" title="Different types of variable declarations in JavaScript - var, let and const."><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nop9rdfi1e1exqzox6wl.jpeg" alt="Different types of variable declarations in JavaScript - var, let and const." width="250px" align="left" /></a>
 <a href="https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0" title="Different types of variable declarations in JavaScript - var, let and const."><strong>Different types of variable declarations in JavaScript - var, let and const.</strong></a>
@@ -35,15 +35,31 @@
 And here you go................
  </p>  <br/> 
  
- <p align="left">
-<a href="https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0" title="Different types of variable declarations in JavaScript - var, let and const."><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nop9rdfi1e1exqzox6wl.jpeg" alt="Different types of variable declarations in JavaScript - var, let and const." width="250px" align="left" /></a>
-<a href="https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0" title="Different types of variable declarations in JavaScript - var, let and const."><strong>Different types of variable declarations in JavaScript - var, let and const.</strong></a>
-<br/> Hi everyone. Here is my first blog in JavaScript. This blog is about the ways that can be used to declare variables in JavaScript. I know, as a beginner, it is difficult to understand the declaration of variable scope.So.. I am here to make it easy. 
-And here you go................
- </p>  <br/> 
+<p align="left">
+<a href="https://dev.to/payalsasmal/how-to-deploy-the-front-endreact-and-backenddjango-with-postgres-at-heroku-4lo1" title="How to deploy the Front-end(React) and Backend(Django) with Postgres at Heroku"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e4m8e82ydttyzx2xly7k.png" alt="How to deploy the Front-end(React) and Backend(Django) with Postgres at Heroku" width="250px" align="left" /></a>
+<a href="https://dev.to/payalsasmal/how-to-deploy-the-front-endreact-and-backenddjango-with-postgres-at-heroku-4lo1" title="How to deploy the Front-end(React) and Backend(Django) with Postgres at Heroku"><strong>How to deploy the Front-end(React) and Backend(Django) with Postgres at Heroku</strong></a>
+<br/> I deployed the Task Tracker at Heroku. In this blog I will share each steps what needs to be followed for deploying a full stack web application without any cost. Below are the steps to deploy Full stack web app using Heroku......
+</p>  <br/> 
+ 
+<p align="left">
+<a href="https://dev.to/payalsasmal/deploy-your-react-app-on-github-3i26" title="Deploy your React App on GitHub"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mqezc2fn1ozsguu826jj.png" alt="Deploy your React App on GitHub" width="250px" align="left" /></a>
+<a href="https://dev.to/payalsasmal/deploy-your-react-app-on-github-3i26" title="Deploy your React App on GitHub"><strong>Deploy your React App on GitHub</strong></a>
+<br/> I know that you came here when you are really tired from deploying your React App on Netlify or Heroku etc. which makes the process little complex.
+But are you aware that you can deploy your React application for free on GitHub? How?.......
+</p> <br/> 
+
+<p align="left">
+<a href="https://dev.to/payalsasmal/basic-linux-unix-commands-we-should-know-12f5" title="Basic Linux/Unix Commands We should know"><img src="https://dev-to-uploads.s3.amazonaws.com/i/o6xvc5grjlpnpu8qmw3p.png" alt="Basic Linux/Unix Commands We should know" width="250px" align="left" /></a>
+<a href="https://dev.to/payalsasmal/basic-linux-unix-commands-we-should-know-12f5" title="Basic Linux/Unix Commands We should know"><strong>Basic Linux/Unix Commands We should know</strong></a>
+<br/> I was a window user, I never thought to use Linux in my life time. But Suddenly it changed my world and I don't want to go back to the windows because I fell in love with linux. I am not a system admin now but I work on few Linux distribution which made me realized that whoever is going to learn Linux, they should know these basic Linux commands, which will help them to save few times and practice.......
+</p>  <br/>
+
+<p align="center">
+ <a href="https://dev.to/payalsasmal" title="dev.to dashboard"><strong>Find More Blogs Here</strong></a>
+ </p>
 
 
-<h2 align="center">My GitHub Stats</h2>
+<h2 align="center">My GitHub Stats 👩🏻‍💻 </h2>
 <div align="center">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/PayalSasmal10/PayalSasmal10/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
