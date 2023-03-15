@@ -1,10 +1,11 @@
 
 # <h1 align="center"> 👋 Hi there! I am Payal Sasmal </h1>
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/PayalSasmal10) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/PayalSasmal10)
+<!-- [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/PayalSasmal10) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/PayalSasmal10)
 [![Javascript](https://badges.frapsoft.com/javascript/code/javascript.svg?v=101)](https://github.com/ellerbrock/javascript-badges/)
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white)
-<br> <br>
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white) -->
+<!-- <br> <br> -->
 <p align="center">A Passionate Software Developer</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PayalSasmal10&label=Profile%20views&color=0e75b6&style=flat" alt="PayalSasmal10" /> </p>
 <h2 align="center">Tech Stack</h2>
   <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
