@@ -75,5 +75,6 @@ But are you aware that you can deploy your React application for free on GitHub?
 <p align="center">
   <a href="https://www.linkedin.com/in/payalsasmal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://dev.to/payalsasmal"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-payalsasmal?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
+  <a href="https://payalsasmal.hashnode.dev/"><img alt="Dev.to blog" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" ></a>
   <a href="https://twitter.com/payalsasmal"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" ></a>
 </p>
