@@ -31,7 +31,8 @@
 <p align="left">
 <a href="https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0" title="Different types of variable declarations in JavaScript - var, let and const."><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nop9rdfi1e1exqzox6wl.jpeg" alt="Different types of variable declarations in JavaScript - var, let and const." width="250px" align="left" /></a>
 <a href="https://dev.to/payalsasmal/different-types-of-variable-declarations-in-javascript-var-let-and-const-5gi0" title="Different types of variable declarations in JavaScript - var, let and const."><strong>Different types of variable declarations in JavaScript - var, let and const.</strong></a>
-<br/> Hi everyone, Here is my first blog in JavaScript. This blog is about the ways that can be used to declare variables in JavaScript. I know, as a beginner....
+<br/> Hi everyone. Here is my first blog in JavaScript. This blog is about the ways that can be used to declare variables in JavaScript. I know, as a beginner, it is difficult to understand the declaration of variable scope.So.. I am here to make it easy. And here you go................
+In JavaScript, there are four ways to declare a variable.Yes, you heard it right... let's elaborate.....
 </p><br/> 
  
 <p align="left">
