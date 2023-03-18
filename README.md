@@ -37,7 +37,7 @@
 <p align="left">
 <a href="https://dev.to/payalsasmal/how-to-deploy-the-front-endreact-and-backenddjango-with-postgres-at-heroku-4lo1" title="How to deploy the Front-end(React) and Backend(Django) with Postgres at Heroku"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e4m8e82ydttyzx2xly7k.png" alt="How to deploy the Front-end(React) and Backend(Django) with Postgres at Heroku" width="250px" align="left" /></a>
 <a href="https://dev.to/payalsasmal/how-to-deploy-the-front-endreact-and-backenddjango-with-postgres-at-heroku-4lo1" title="How to deploy the Front-end(React) and Backend(Django) with Postgres at Heroku"><strong>How to deploy the Front-end(React) and Backend(Django) with Postgres at Heroku</strong></a>
-<br/> I deployed the Task Tracker at Heroku. In this blog I will share each steps what needs to be followed for deploying a full stack web application without any cost.......
+<br/> I deployed the Task Tracker at Heroku. In this blog I will share each steps what needs to be followed for deploying a full stack web application without any cost. Below are the steps to deploy Full stack web app using Heroku.....
 </p><br/> 
  
 <p align="left">
