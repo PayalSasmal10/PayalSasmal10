@@ -44,8 +44,9 @@ In JavaScript, there are four ways to declare a variable.Yes, you heard it right
 <p align="left">
 <a href="https://dev.to/payalsasmal/deploy-your-react-app-on-github-3i26" title="Deploy your React App on GitHub"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mqezc2fn1ozsguu826jj.png" alt="Deploy your React App on GitHub" width="250px" align="left" /></a>
 <a href="https://dev.to/payalsasmal/deploy-your-react-app-on-github-3i26" title="Deploy your React App on GitHub"><strong>Deploy your React App on GitHub</strong></a>
-<br/> I know that you came here when you are really tired from deploying your React App on Netlify or Heroku etc. which makes the process little complex.
-But are you aware that you can deploy your React application for free on GitHub?.......
+<br/> Hey Everyone!...
+I know that you came here when you are really tired from deploying your React App on Netlify or Heroku etc. which makes the process little complex.
+But are you aware that you can deploy your React application for free on GitHub? How? I'm going to show you how my Emoji Search App website is online using GitHub Page. Here it comes....
 </p> <br/> 
 
 <p align="left">
